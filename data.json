@@ -1,0 +1,94 @@
+{
+  "lanes": [
+    {
+      "id": "PLANNED",
+      "title": "Planned Tasks",
+      "label": "20/70",
+      "style": {
+        "width": 280
+      },
+      "cards": [
+        {
+          "id": "Milk",
+          "title": "レンタカー借りる",
+          "label": "15 mins",
+          "cardStyle": {
+            "width": 270,
+            "maxWidth": 270,
+            "margin": "auto",
+            "marginBottom": 5
+          },
+          "description": "レンタカー予約"
+        },
+        {
+          "id": "Plan2",
+          "title": "食材を買いに行く",
+          "label": "10 mins",
+          "cardStyle": {
+            "width": 270,
+            "maxWidth": 270,
+            "margin": "auto",
+            "marginBottom": 5
+          },
+          "description": "りんご　バナナ"
+        },
+        {
+          "id": "Plan4",
+          "title": "部屋掃除",
+          "label": "5 mins",
+          "cardStyle": {
+            "width": 270,
+            "maxWidth": 270,
+            "margin": "auto",
+            "marginBottom": 5
+          },
+          "description": "引っ越しの片付け"
+        }
+      ]
+    },
+    {
+      "id": "WIP",
+      "title": "Work In Progress",
+      "label": "10/20",
+      "style": {
+        "width": 280
+      },
+      "cards": [
+        {
+          "id": "Wip1",
+          "title": "ブログを書く",
+          "label": "30 mins",
+          "cardStyle": {
+            "width": 270,
+            "maxWidth": 270,
+            "margin": "auto",
+            "marginBottom": 5
+          },
+          "description": "react-trelloについて"
+        }
+      ]
+    },
+    {
+      "id": "Done",
+      "title": "Done",
+      "label": "10/20",
+      "style": {
+        "width": 280
+      },
+      "cards": [
+        {
+          "id": "Wip1",
+          "title": "ネットの契約",
+          "label": "30 mins",
+          "cardStyle": {
+            "width": 270,
+            "maxWidth": 270,
+            "margin": "auto",
+            "marginBottom": 5
+          },
+          "description": "BBIQと契約する"
+        }
+      ]
+    }
+  ]
+}
